@@ -104,6 +104,7 @@ require_once "./auth/queries.php";
                                                                 <option>Deed of Conveyance</option>
                                                                 <option>C of O</option>
                                                                 <option>Governor’s Consent</option>
+                                                                <option>Customary Right of Occupancy</option>
                                                             </select>
                                                         </div>
                                                     </div>
